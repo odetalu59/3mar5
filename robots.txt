@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://hackad.nu/superjp.html/sitemap.xml
+Sitemap: https://hackad.nu/gojekpot.html/sitemap.xml
+Sitemap: https://hackad.nu/winstrike69.html/sitemap.xml
+Sitemap: https://hackad.nu/jagoan86.html/sitemap.xml
+Sitemap: https://hackad.nu/kaptenjackpot.html/sitemap.xml
+Sitemap: https://hackad.nu/boosterjp.html/sitemap.xml
+Sitemap: https://hackad.nu/kerajaanslot.html/sitemap.xml
+Sitemap: https://hackad.nu/viral88.html/sitemap.xml
+Sitemap: https://hackad.nu/clan4d.html/sitemap.xml
+Sitemap: https://hackad.nu/dinamit4d.html/sitemap.xml
+Sitemap: https://hackad.nu/viral4d.html/sitemap.xml
+Sitemap: https://hackad.nu/gilajp.html/sitemap.xml
